@@ -1,0 +1,10 @@
+[package]
+name = "lau-seven-eyes-demo"
+version = "0.1.0"
+edition = "2021"
+description = "Seven Eyes demo — three agents from three traditions solve a conservation problem together"
+license = "MIT"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
