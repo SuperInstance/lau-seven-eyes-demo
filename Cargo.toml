@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Seven Eyes demo — three agents from three traditions solve a conservation problem together"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-seven-eyes-demo"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
